@@ -1,0 +1,658 @@
+Pokemon: solgaleo id: 1
+       Fail: yawn
+       Fail: magical-leaf
+       Fail: switcheroo
+       Fail: quash
+       Fail: max-steelspike
+       Fail: ally-switch
+       Fail: shadow-ball
+       Fail: gust
+       Pass: safeguard
+       Fail: electroweb
+       Fail: thunder-cage
+       Fail: smack-down
+       Pass: sunsteel-strike
+       Fail: crafty-shield
+       Fail: vice-grip
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: shroomish id: 2
+       Fail: blue-flare
+       Fail: supersonic-skystrike--special
+       Fail: cross-poison
+       Fail: power-up-punch
+       Fail: rock-polish
+       Fail: trick-or-treat
+       Fail: heart-stamp
+       Fail: switcheroo
+       Fail: baby-doll-eyes
+       Fail: spiky-shield
+       Fail: rock-climb
+       Fail: last-resort
+       Fail: catastropika
+       Fail: gravity
+       Fail: twineedle
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: vigoroth id: 3
+       Fail: crush-grip
+       Fail: horn-leech
+       Fail: smelling-salts
+       Fail: lets-snuggle-forever
+       Fail: savage-spin-out--physical
+       Pass: retaliate
+       Fail: leech-seed
+       Fail: ancient-power
+       Fail: mud-bomb
+       Fail: corrosive-gas
+       Fail: whirlpool
+       Fail: leaf-storm
+       Fail: reflect
+       Fail: flame-burst
+       Pass: sucker-punch
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: arcanine id: 4
+       Fail: freeze-shock
+       Fail: grassy-glide
+       Fail: poison-jab
+       Fail: dragon-tail
+       Fail: vice-grip
+       Pass: solar-beam
+       Fail: heal-block
+       Pass: body-slam
+       Fail: feint-attack
+       Fail: power-swap
+       Fail: sticky-web
+       Fail: baddy-bad
+       Fail: flatter
+       Fail: wish
+       Fail: rising-voltage
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: paras id: 5
+       Fail: shattered-psyche--physical
+       Fail: low-sweep
+       Fail: cross-chop
+       Fail: trick-room
+       Fail: destiny-bond
+       Pass: scratch
+       Fail: giga-impact
+       Fail: anchor-shot
+       Fail: sandstorm
+       Pass: mimic
+       Fail: buzzy-buzz
+       Fail: parabolic-charge
+       Fail: mind-reader
+       Fail: psyshock
+       Fail: dark-void
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: gumshoos id: 6
+       Fail: veevee-volley
+       Fail: nightmare
+       Fail: power-gem
+       Fail: psybeam
+       Fail: poison-sting
+       Fail: rock-throw
+       Fail: snarl
+       Fail: max-wyrmwind
+       Fail: struggle
+       Fail: struggle-bug
+       Fail: frost-breath
+       Fail: floral-healing
+       Fail: tectonic-rage--special
+       Pass: return
+       Fail: ember
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: alcremie id: 7
+       Fail: belly-drum
+       Fail: sludge-bomb
+       Fail: autotomize
+       Fail: sketch
+       Fail: x-scissor
+       Fail: magnet-bomb
+       Fail: zap-cannon
+       Fail: pollen-puff
+       Fail: smokescreen
+       Fail: lucky-chant
+       Fail: spike-cannon
+       Fail: dragon-rage
+       Fail: outrage
+       Fail: flame-charge
+       Fail: venom-drench
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: togedemaru id: 8
+       Fail: howl
+       Fail: ice-burn
+       Fail: soft-boiled
+       Fail: aqua-ring
+       Fail: steamroller
+       Fail: solar-beam
+       Fail: sonic-boom
+       Pass: electroweb
+       Fail: explosion
+       Fail: baton-pass
+       Fail: night-slash
+       Fail: kinesis
+       Pass: encore
+       Fail: dizzy-punch
+       Fail: grassy-glide
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: gorebyss id: 9
+       Fail: heart-swap
+       Fail: all-out-pummeling--special
+       Fail: prismatic-laser
+       Fail: obstruct
+       Fail: gear-grind
+       Fail: max-geyser
+       Fail: magnetic-flux
+       Fail: false-surrender
+       Fail: psywave
+       Fail: teatime
+       Fail: seed-flare
+       Fail: u-turn
+       Fail: sleep-powder
+       Fail: copycat
+       Fail: wake-up-slap
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: cutiefly id: 10
+       Fail: work-up
+       Fail: confusion
+       Fail: low-sweep
+       Fail: stomping-tantrum
+       Fail: steamroller
+       Fail: thunderbolt
+       Fail: circle-throw
+       Fail: feather-dance
+       Fail: avalanche
+       Fail: doom-desire
+       Fail: spectral-thief
+       Fail: steel-wing
+       Fail: focus-energy
+       Pass: defog
+       Fail: zen-headbutt
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: elekid id: 11
+       Fail: submission
+       Fail: withdraw
+       Fail: mystical-fire
+       Fail: light-of-ruin
+       Fail: bounce
+       Fail: hyper-voice
+       Fail: explosion
+       Fail: max-geyser
+       Fail: spotlight
+       Fail: freezing-glare
+       Fail: leaf-tornado
+       Fail: flame-wheel
+       Fail: shadow-sneak
+       Fail: power-whip
+       Fail: max-quake
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: basculin-red-striped id: 12
+       Fail: focus-punch
+       Fail: false-surrender
+       Fail: shore-up
+       Fail: feint-attack
+       Pass: swift
+       Fail: psywave
+       Fail: magnet-rise
+       Fail: roost
+       Fail: floaty-fall
+       Fail: thunder-wave
+       Fail: light-screen
+       Fail: surging-strikes
+       Fail: icicle-crash
+       Fail: will-o-wisp
+       Fail: pluck
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: vanillite id: 13
+       Fail: fissure
+       Fail: light-of-ruin
+       Fail: wicked-blow
+       Fail: dragon-ascent
+       Fail: whirlwind
+       Fail: psywave
+       Fail: gunk-shot
+       Fail: crush-grip
+       Fail: continental-crush--special
+       Fail: foresight
+       Fail: rock-tomb
+       Fail: present
+       Fail: feather-dance
+       Fail: calm-mind
+       Fail: arm-thrust
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: volcanion id: 14
+       Fail: ally-switch
+       Fail: growth
+       Fail: devastating-drake--physical
+       Fail: calm-mind
+       Fail: dizzy-punch
+       Fail: shadow-bone
+       Fail: false-swipe
+       Fail: punishment
+       Fail: bloom-doom--physical
+       Fail: agility
+       Fail: aura-wheel
+       Pass: superpower
+       Fail: tar-shot
+       Fail: play-rough
+
+ Summary | total:14 | pass:1 | fail:13
+
+Pokemon: emboar id: 15
+       Fail: acupressure
+       Fail: mirror-coat
+       Fail: dragon-dance
+       Fail: sand-tomb
+       Fail: sparkling-aria
+       Pass: bulk-up
+       Fail: horn-drill
+       Pass: scald
+       Pass: rock-tomb
+       Fail: hold-hands
+       Fail: dynamic-punch
+       Fail: shell-trap
+       Fail: mach-punch
+       Pass: ember
+       Fail: payback
+
+ Summary | total:15 | pass:4 | fail:11
+
+Pokemon: stonjourner id: 16
+       Fail: freeze-shock
+       Fail: wicked-blow
+       Fail: bug-bite
+       Fail: feint
+       Fail: psychic-terrain
+       Fail: max-mindstorm
+       Fail: thunderbolt
+       Fail: luster-purge
+       Pass: wonder-room
+       Fail: pollen-puff
+       Fail: vice-grip
+       Fail: aurora-veil
+       Pass: rock-tomb
+       Pass: protect
+
+ Summary | total:14 | pass:3 | fail:11
+
+Pokemon: heatran id: 17
+       Pass: stealth-rock
+       Fail: malicious-moonsault
+       Fail: clear-smog
+       Fail: geomancy
+       Fail: mega-punch
+       Fail: focus-punch
+       Fail: psycho-boost
+       Fail: tar-shot
+       Fail: petal-dance
+       Fail: aurora-beam
+       Fail: retaliate
+       Fail: subzero-slammer--physical
+       Fail: baneful-bunker
+       Pass: stone-edge
+       Fail: worry-seed
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: servine id: 18
+       Fail: bouncy-bubble
+       Fail: steel-wing
+       Fail: dragon-claw
+       Fail: sky-drop
+       Pass: wrap
+       Fail: max-knuckle
+       Fail: trick-or-treat
+       Fail: magnetic-flux
+       Fail: meteor-assault
+       Fail: fiery-dance
+       Fail: clanging-scales
+       Fail: sludge-wave
+       Fail: volt-switch
+       Fail: grassy-terrain
+
+ Summary | total:14 | pass:1 | fail:13
+
+Pokemon: ariados id: 19
+       Fail: sing
+       Fail: max-rockfall
+       Fail: sizzly-slide
+       Fail: revenge
+       Fail: brutal-swing
+       Fail: pursuit
+       Fail: recycle
+       Fail: crush-claw
+       Fail: night-daze
+       Fail: max-quake
+       Fail: flip-turn
+       Fail: spacial-rend
+       Fail: hammer-arm
+       Fail: work-up
+       Fail: tail-glow
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: klink id: 20
+       Fail: sweet-scent
+       Fail: worry-seed
+       Fail: low-sweep
+       Fail: water-pulse
+       Fail: mirror-coat
+       Fail: bouncy-bubble
+       Fail: dark-void
+       Fail: whirlpool
+       Fail: veevee-volley
+       Fail: crush-grip
+       Fail: stomp
+       Fail: poltergeist
+       Fail: leer
+       Fail: thunder-cage
+       Pass: frustration
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: zigzagoon id: 21
+       Fail: wonder-room
+       Fail: spore
+       Fail: bounce
+       Fail: petal-blizzard
+       Pass: tail-slap
+       Fail: gust
+       Fail: aurora-beam
+       Fail: wish
+       Fail: bonemerang
+       Fail: max-airstream
+       Fail: hydro-cannon
+       Fail: disable
+       Pass: fury-cutter
+       Fail: power-trick
+       Fail: snap-trap
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: budew id: 22
+       Fail: mud-sport
+       Fail: minimize
+       Fail: overheat
+       Fail: bonemerang
+       Fail: shadow-bone
+       Fail: charm
+       Fail: veevee-volley
+       Fail: misty-explosion
+       Fail: bind
+       Fail: behemoth-blade
+       Fail: night-slash
+       Fail: searing-shot
+       Fail: heart-stamp
+       Fail: dragon-dance
+       Fail: acupressure
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: cacnea id: 23
+       Fail: shock-wave
+       Fail: triple-kick
+       Fail: double-iron-bash
+       Fail: luster-purge
+       Fail: mud-shot
+       Fail: metal-sound
+       Fail: haze
+       Fail: tickle
+       Fail: max-airstream
+       Fail: chip-away
+       Fail: pollen-puff
+       Fail: razor-wind
+       Fail: surging-strikes
+       Fail: ominous-wind
+
+ Summary | total:14 | pass:0 | fail:14
+
+Pokemon: stantler id: 24
+       Fail: guard-swap
+       Pass: protect
+       Pass: dream-eater
+       Fail: power-gem
+       Fail: heat-wave
+       Fail: vice-grip
+       Pass: earthquake
+       Fail: simple-beam
+       Fail: discharge
+       Fail: volt-tackle
+       Fail: dig
+       Fail: bloom-doom--physical
+       Fail: future-sight
+       Fail: drum-beating
+       Fail: secret-sword
+
+ Summary | total:15 | pass:3 | fail:12
+
+Pokemon: chandelure id: 25
+       Fail: dynamic-punch
+       Fail: psybeam
+       Fail: bone-rush
+       Fail: absorb
+       Fail: mind-reader
+       Fail: seismic-toss
+       Fail: psystrike
+       Fail: double-slap
+       Pass: facade
+       Fail: refresh
+       Fail: snipe-shot
+       Fail: max-knuckle
+       Fail: cosmic-power
+       Fail: no-retreat
+       Fail: brine
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: abra id: 26
+       Fail: searing-shot
+       Fail: kings-shield
+       Fail: hydro-vortex--special
+       Fail: astonish
+       Fail: egg-bomb
+       Fail: sky-attack
+       Fail: slack-off
+       Fail: flame-charge
+       Fail: worry-seed
+       Fail: thunder-cage
+       Fail: payback
+       Fail: echoed-voice
+       Fail: floaty-fall
+       Fail: magnetic-flux
+       Fail: tar-shot
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: foongus id: 27
+       Fail: screech
+       Fail: sludge-wave
+       Fail: whirlwind
+       Fail: fire-fang
+       Fail: thunder-cage
+       Fail: soft-boiled
+       Fail: wood-hammer
+       Fail: rising-voltage
+       Fail: bestow
+       Fail: mach-punch
+       Fail: crush-claw
+       Fail: light-of-ruin
+       Pass: rollout
+       Fail: hurricane
+
+ Summary | total:14 | pass:1 | fail:13
+
+Pokemon: pupitar id: 28
+       Fail: egg-bomb
+       Fail: rage
+       Fail: water-pledge
+       Fail: poison-gas
+       Fail: encore
+       Fail: reflect-type
+       Fail: light-screen
+       Fail: relic-song
+       Fail: bone-club
+       Fail: focus-blast
+       Fail: sparkly-swirl
+       Fail: thief
+       Fail: scale-shot
+       Fail: tectonic-rage--physical
+       Fail: healing-wish
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: ledyba id: 29
+       Fail: defense-curl
+       Fail: sky-uppercut
+       Fail: seed-bomb
+       Fail: max-flutterby
+       Pass: dizzy-punch
+       Fail: splash
+       Fail: gust
+       Pass: rollout
+       Fail: 10-000-000-volt-thunderbolt
+       Fail: judgment
+       Fail: rock-blast
+       Fail: giga-impact
+       Fail: razor-leaf
+       Fail: surf
+       Fail: defog
+
+ Summary | total:15 | pass:2 | fail:13
+
+Pokemon: luxray id: 30
+       Fail: court-change
+       Fail: drum-beating
+       Fail: max-starfall
+       Fail: safeguard
+       Fail: wood-hammer
+       Fail: memento
+       Fail: bolt-strike
+       Fail: overheat
+       Fail: first-impression
+       Fail: bonemerang
+       Fail: splintered-stormshards
+       Fail: pyro-ball
+       Fail: shadow-ball
+       Fail: echoed-voice
+       Fail: inferno-overdrive--special
+
+ Summary | total:15 | pass:0 | fail:15
+
+Pokemon: herdier id: 31
+       Fail: head-smash
+       Fail: bug-buzz
+       Fail: sing
+       Fail: dark-pulse
+       Fail: obstruct
+       Fail: hyperspace-hole
+       Fail: soak
+       Fail: dream-eater
+       Fail: sunsteel-strike
+       Fail: instruct
+       Fail: speed-swap
+       Fail: light-screen
+       Pass: sunny-day
+       Fail: overdrive
+       Fail: grass-knot
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: rockruff id: 32
+       Fail: horn-attack
+       Fail: sky-drop
+       Fail: captivate
+       Fail: foul-play
+       Fail: core-enforcer
+       Fail: headbutt
+       Fail: night-daze
+       Fail: snap-trap
+       Fail: heal-order
+       Fail: wrap
+       Fail: peck
+       Fail: knock-off
+       Fail: constrict
+       Fail: acid
+
+ Summary | total:14 | pass:0 | fail:14
+
+Pokemon: rayquaza id: 33
+       Fail: floaty-fall
+       Fail: wood-hammer
+       Fail: confuse-ray
+       Fail: core-enforcer
+       Fail: tackle
+       Fail: wake-up-slap
+       Fail: meteor-mash
+       Fail: bubble-beam
+       Fail: magnet-bomb
+       Fail: steam-eruption
+       Fail: max-guard
+       Pass: breaking-swipe
+       Fail: guardian-of-alola
+       Fail: barrier
+       Fail: corkscrew-crash--special
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: teddiursa id: 34
+       Fail: aura-wheel
+       Fail: assurance
+       Fail: brave-bird
+       Fail: night-shade
+       Pass: fake-tears
+       Fail: low-kick
+       Fail: wring-out
+       Fail: flash-cannon
+       Fail: barrage
+       Fail: cotton-spore
+       Fail: surging-strikes
+       Fail: clangorous-soul
+       Fail: eerie-impulse
+       Fail: misty-explosion
+       Fail: drill-run
+
+ Summary | total:15 | pass:1 | fail:14
+
+Pokemon: diggersby id: 35
+       Fail: magic-coat
+       Fail: soak
+       Fail: shadow-bone
+       Fail: dynamic-punch
+       Fail: minimize
+       Fail: octolock
+       Pass: spikes
+       Fail: gigavolt-havoc--physical
+       Fail: guillotine
+       Fail: hail
+       Fail: counter
+       Fail: dream-eater
+       Fail: transform
+       Fail: submission
+       Fail: clanging-scales
+
+ Summary | total:15 | pass:1 | fail:14
