@@ -1,0 +1,696 @@
+[
+    {
+      "name": "solgaleo",
+      "moves": [
+        "yawn", 
+        "magical-leaf",
+        "switcheroo",
+        "quash",
+        "max-steelspike",
+        "ally-switch",
+        "shadow-ball",
+        "gust",
+        "safeguard",
+        "electroweb",
+        "thunder-cage",
+        "smack-down",
+        "sunsteel-strike",
+        "crafty-shield",
+        "vice-grip"
+      ]
+    },
+    {
+      "name": "shroomish",
+      "moves": [
+        "blue-flare",
+        "supersonic-skystrike--special",
+        "cross-poison",
+        "power-up-punch",
+        "rock-polish",
+        "trick-or-treat",
+        "heart-stamp",
+        "switcheroo",
+        "baby-doll-eyes",
+        "spiky-shield",
+        "rock-climb",
+        "last-resort",
+        "catastropika",
+        "gravity",
+        "twineedle"
+      ]
+    },
+    {
+      "name": "vigoroth",
+      "moves": [
+        "crush-grip",
+        "horn-leech",
+        "smelling-salts",
+        "lets-snuggle-forever",
+        "savage-spin-out--physical",
+        "retaliate",
+        "leech-seed",
+        "ancient-power",
+        "mud-bomb",
+        "corrosive-gas",
+        "whirlpool",
+        "leaf-storm",
+        "reflect",
+        "flame-burst",
+        "sucker-punch"
+      ]
+    },
+    {
+      "name": "arcanine",
+      "moves": [
+        "freeze-shock",
+        "grassy-glide",
+        "poison-jab",
+        "dragon-tail",
+        "vice-grip",
+        "solar-beam",
+        "heal-block",
+        "body-slam",
+        "feint-attack",
+        "power-swap",
+        "sticky-web",
+        "baddy-bad",
+        "flatter",
+        "wish",
+        "rising-voltage"
+      ]
+    },
+    {
+      "name": "paras",
+      "moves": [
+        "shattered-psyche--physical",
+        "low-sweep",
+        "cross-chop",
+        "trick-room",
+        "destiny-bond",
+        "scratch",
+        "giga-impact",
+        "anchor-shot",
+        "sandstorm",
+        "mimic",
+        "buzzy-buzz",
+        "parabolic-charge",
+        "mind-reader",
+        "psyshock",
+        "dark-void"
+      ]
+    },
+    {
+      "name": "gumshoos",
+      "moves": [
+        "veevee-volley",
+        "nightmare",
+        "power-gem",
+        "psybeam",
+        "poison-sting",
+        "rock-throw",
+        "snarl",
+        "max-wyrmwind",
+        "struggle",
+        "struggle-bug",
+        "frost-breath",
+        "floral-healing",
+        "tectonic-rage--special",
+        "return",
+        "ember"
+      ]
+    },
+    {
+      "name": "alcremie",
+      "moves": [
+        "belly-drum",
+        "sludge-bomb",
+        "autotomize",
+        "sketch",
+        "x-scissor",
+        "magnet-bomb",
+        "zap-cannon",
+        "pollen-puff",
+        "smokescreen",
+        "lucky-chant",
+        "spike-cannon",
+        "dragon-rage",
+        "outrage",
+        "flame-charge",
+        "venom-drench"
+      ]
+    },
+    {
+      "name": "togedemaru",
+      "moves": [
+        "howl",
+        "ice-burn",
+        "soft-boiled",
+        "aqua-ring",
+        "steamroller",
+        "solar-beam",
+        "sonic-boom",
+        "electroweb",
+        "explosion",
+        "baton-pass",
+        "night-slash",
+        "kinesis",
+        "encore",
+        "dizzy-punch",
+        "grassy-glide"
+      ]
+    },
+    {
+      "name": "gorebyss",
+      "moves": [
+        "heart-swap",
+        "all-out-pummeling--special",
+        "prismatic-laser",
+        "obstruct",
+        "gear-grind",
+        "max-geyser",
+        "magnetic-flux",
+        "false-surrender",
+        "psywave",
+        "teatime",
+        "seed-flare",
+        "u-turn",
+        "sleep-powder",
+        "copycat",
+        "wake-up-slap"
+      ]
+    },
+    {
+      "name": "cutiefly",
+      "moves": [
+        "work-up",
+        "confusion",
+        "low-sweep",
+        "stomping-tantrum",
+        "steamroller",
+        "thunderbolt",
+        "circle-throw",
+        "feather-dance",
+        "avalanche",
+        "doom-desire",
+        "spectral-thief",
+        "steel-wing",
+        "focus-energy",
+        "defog",
+        "zen-headbutt"
+      ]
+    },
+    {
+      "name": "elekid",
+      "moves": [
+        "submission",
+        "withdraw",
+        "mystical-fire",
+        "light-of-ruin",
+        "bounce",
+        "hyper-voice",
+        "explosion",
+        "max-geyser",
+        "spotlight",
+        "freezing-glare",
+        "leaf-tornado",
+        "flame-wheel",
+        "shadow-sneak",
+        "power-whip",
+        "max-quake"
+      ]
+    },
+    {
+      "name": "basculin-red-striped",
+      "moves": [
+        "focus-punch",
+        "false-surrender",
+        "shore-up",
+        "feint-attack",
+        "swift",
+        "psywave",
+        "magnet-rise",
+        "roost",
+        "floaty-fall",
+        "thunder-wave",
+        "light-screen",
+        "surging-strikes",
+        "icicle-crash",
+        "will-o-wisp",
+        "pluck"
+      ]
+    },
+    {
+      "name": "vanillite",
+      "moves": [
+        "fissure",
+        "light-of-ruin",
+        "wicked-blow",
+        "dragon-ascent",
+        "whirlwind",
+        "psywave",
+        "gunk-shot",
+        "crush-grip",
+        "continental-crush--special",
+        "foresight",
+        "rock-tomb",
+        "present",
+        "feather-dance",
+        "calm-mind",
+        "arm-thrust"
+      ]
+    },
+    {
+      "name": "volcanion",
+      "moves": [
+        "ally-switch",
+        "growth",
+        "devastating-drake--physical",
+        "calm-mind",
+        "dizzy-punch",
+        "shadow-bone",
+        "false-swipe",
+        "punishment",
+        "bloom-doom--physical",
+        "agility",
+        "aura-wheel",
+        "superpower",
+        "tar-shot",
+        "play-rough"
+      ]
+    },
+    {
+      "name": "emboar",
+      "moves": [
+        "acupressure",
+        "mirror-coat",
+        "dragon-dance",
+        "sand-tomb",
+        "sparkling-aria",
+        "bulk-up",
+        "horn-drill",
+        "scald",
+        "rock-tomb",
+        "hold-hands",
+        "dynamic-punch",
+        "shell-trap",
+        "mach-punch",
+        "ember",
+        "payback"
+      ]
+    },
+    {
+      "name": "stonjourner",
+      "moves": [
+        "freeze-shock",
+        "wicked-blow",
+        "bug-bite",
+        "feint",
+        "psychic-terrain",
+        "max-mindstorm",
+        "thunderbolt",
+        "luster-purge",
+        "wonder-room",
+        "pollen-puff",
+        "vice-grip",
+        "aurora-veil",
+        "rock-tomb",
+        "protect"
+      ]
+    },
+    {
+      "name": "heatran",
+      "moves": [
+        "stealth-rock",
+        "malicious-moonsault",
+        "clear-smog",
+        "geomancy",
+        "mega-punch",
+        "focus-punch",
+        "psycho-boost",
+        "tar-shot",
+        "petal-dance",
+        "aurora-beam",
+        "retaliate",
+        "subzero-slammer--physical",
+        "baneful-bunker",
+        "stone-edge",
+        "worry-seed"
+      ]
+    },
+    {
+      "name": "servine",
+      "moves": [
+        "bouncy-bubble",
+        "steel-wing",
+        "dragon-claw",
+        "sky-drop",
+        "wrap",
+        "max-knuckle",
+        "trick-or-treat",
+        "magnetic-flux",
+        "meteor-assault",
+        "fiery-dance",
+        "clanging-scales",
+        "sludge-wave",
+        "volt-switch",
+        "grassy-terrain"
+      ]
+    },
+    {
+      "name": "ariados",
+      "moves": [
+        "sing",
+        "max-rockfall",
+        "sizzly-slide",
+        "revenge",
+        "brutal-swing",
+        "pursuit",
+        "recycle",
+        "crush-claw",
+        "night-daze",
+        "max-quake",
+        "flip-turn",
+        "spacial-rend",
+        "hammer-arm",
+        "work-up",
+        "tail-glow"
+      ]
+    },
+    {
+      "name": "klink",
+      "moves": [
+        "sweet-scent",
+        "worry-seed",
+        "low-sweep",
+        "water-pulse",
+        "mirror-coat",
+        "bouncy-bubble",
+        "dark-void",
+        "whirlpool",
+        "veevee-volley",
+        "crush-grip",
+        "stomp",
+        "poltergeist",
+        "leer",
+        "thunder-cage",
+        "frustration"
+      ]
+    },
+    {
+      "name": "zigzagoon",
+      "moves": [
+        "wonder-room",
+        "spore",
+        "bounce",
+        "petal-blizzard",
+        "tail-slap",
+        "gust",
+        "aurora-beam",
+        "wish",
+        "bonemerang",
+        "max-airstream",
+        "hydro-cannon",
+        "disable",
+        "fury-cutter",
+        "power-trick",
+        "snap-trap"
+      ]
+    },
+    {
+      "name": "budew",
+      "moves": [
+        "mud-sport",
+        "minimize",
+        "overheat",
+        "bonemerang",
+        "shadow-bone",
+        "charm",
+        "veevee-volley",
+        "misty-explosion",
+        "bind",
+        "behemoth-blade",
+        "night-slash",
+        "searing-shot",
+        "heart-stamp",
+        "dragon-dance",
+        "acupressure"
+      ]
+    },
+    {
+      "name": "cacnea",
+      "moves": [
+        "shock-wave",
+        "triple-kick",
+        "double-iron-bash",
+        "luster-purge",
+        "mud-shot",
+        "metal-sound",
+        "haze",
+        "tickle",
+        "max-airstream",
+        "chip-away",
+        "pollen-puff",
+        "razor-wind",
+        "surging-strikes",
+        "ominous-wind"
+      ]
+    },
+    {
+      "name": "stantler",
+      "moves": [
+        "guard-swap",
+        "protect",
+        "dream-eater",
+        "power-gem",
+        "heat-wave",
+        "vice-grip",
+        "earthquake",
+        "simple-beam",
+        "discharge",
+        "volt-tackle",
+        "dig",
+        "bloom-doom--physical",
+        "future-sight",
+        "drum-beating",
+        "secret-sword"
+      ]
+    },
+    {
+      "name": "chandelure",
+      "moves": [
+        "dynamic-punch",
+        "psybeam",
+        "bone-rush",
+        "absorb",
+        "mind-reader",
+        "seismic-toss",
+        "psystrike",
+        "double-slap",
+        "facade",
+        "refresh",
+        "snipe-shot",
+        "max-knuckle",
+        "cosmic-power",
+        "no-retreat",
+        "brine"
+      ]
+    },
+    {
+      "name": "abra",
+      "moves": [
+        "searing-shot",
+        "kings-shield",
+        "hydro-vortex--special",
+        "astonish",
+        "egg-bomb",
+        "sky-attack",
+        "slack-off",
+        "flame-charge",
+        "worry-seed",
+        "thunder-cage",
+        "payback",
+        "echoed-voice",
+        "floaty-fall",
+        "magnetic-flux",
+        "tar-shot"
+      ]
+    },
+    {
+      "name": "foongus",
+      "moves": [
+        "screech",
+        "sludge-wave",
+        "whirlwind",
+        "fire-fang",
+        "thunder-cage",
+        "soft-boiled",
+        "wood-hammer",
+        "rising-voltage",
+        "bestow",
+        "mach-punch",
+        "crush-claw",
+        "light-of-ruin",
+        "rollout",
+        "hurricane"
+      ]
+    },
+    {
+      "name": "pupitar",
+      "moves": [
+        "egg-bomb",
+        "rage",
+        "water-pledge",
+        "poison-gas",
+        "encore",
+        "reflect-type",
+        "light-screen",
+        "relic-song",
+        "bone-club",
+        "focus-blast",
+        "sparkly-swirl",
+        "thief",
+        "scale-shot",
+        "tectonic-rage--physical",
+        "healing-wish"
+      ]
+    },
+    {
+      "name": "ledyba",
+      "moves": [
+        "defense-curl",
+        "sky-uppercut",
+        "seed-bomb",
+        "max-flutterby",
+        "dizzy-punch",
+        "splash",
+        "gust",
+        "rollout",
+        "10-000-000-volt-thunderbolt",
+        "judgment",
+        "rock-blast",
+        "giga-impact",
+        "razor-leaf",
+        "surf",
+        "defog"
+      ]
+    },
+    {
+      "name": "luxray",
+      "moves": [
+        "court-change",
+        "drum-beating",
+        "max-starfall",
+        "safeguard",
+        "wood-hammer",
+        "memento",
+        "bolt-strike",
+        "overheat",
+        "first-impression",
+        "bonemerang",
+        "splintered-stormshards",
+        "pyro-ball",
+        "shadow-ball",
+        "echoed-voice",
+        "inferno-overdrive--special"
+      ]
+    },
+    {
+      "name": "herdier",
+      "moves": [
+        "head-smash",
+        "bug-buzz",
+        "sing",
+        "dark-pulse",
+        "obstruct",
+        "hyperspace-hole",
+        "soak",
+        "dream-eater",
+        "sunsteel-strike",
+        "instruct",
+        "speed-swap",
+        "light-screen",
+        "sunny-day",
+        "overdrive",
+        "grass-knot"
+      ]
+    },
+    {
+      "name": "rockruff",
+      "moves": [
+        "horn-attack",
+        "sky-drop",
+        "captivate",
+        "foul-play",
+        "core-enforcer",
+        "headbutt",
+        "night-daze",
+        "snap-trap",
+        "heal-order",
+        "wrap",
+        "peck",
+        "knock-off",
+        "constrict",
+        "acid"
+      ]
+    },
+    {
+      "name": "rayquaza",
+      "moves": [
+        "floaty-fall",
+        "wood-hammer",
+        "confuse-ray",
+        "core-enforcer",
+        "tackle",
+        "wake-up-slap",
+        "meteor-mash",
+        "bubble-beam",
+        "magnet-bomb",
+        "steam-eruption",
+        "max-guard",
+        "breaking-swipe",
+        "guardian-of-alola",
+        "barrier",
+        "corkscrew-crash--special"
+      ]
+    },
+    {
+      "name": "teddiursa",
+      "moves": [
+        "aura-wheel",
+        "assurance",
+        "brave-bird",
+        "night-shade",
+        "fake-tears",
+        "low-kick",
+        "wring-out",
+        "flash-cannon",
+        "barrage",
+        "cotton-spore",
+        "surging-strikes",
+        "clangorous-soul",
+        "eerie-impulse",
+        "misty-explosion",
+        "drill-run"
+      ]
+    },
+    {
+      "name": "diggersby",
+      "moves": [
+        "magic-coat",
+        "soak",
+        "shadow-bone",
+        "dynamic-punch",
+        "minimize",
+        "octolock",
+        "spikes",
+        "gigavolt-havoc--physical",
+        "guillotine",
+        "hail",
+        "counter",
+        "dream-eater",
+        "transform",
+        "submission",
+        "clanging-scales"
+      ]
+    }
+  ]
