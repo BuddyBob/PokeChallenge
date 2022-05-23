@@ -193,16 +193,16 @@ async function move2(){
 // /api/v2/move/
 
 // pokes.json moves (500)
-move()
+// move()
 
-// pokes.json moves (390)
+// pokes.json moves (390) - faster
 move2()
 
 //----------------------------------------------------------------------------------------------------------------------
 
 // /api/v2/pokemon/
 
-pokemon()
+// pokemon()
 
 
 
