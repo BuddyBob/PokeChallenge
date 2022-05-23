@@ -13,20 +13,20 @@ function pokemon(){
             for (let i = 0; i < r.data.moves.length; i++){
                 move_lst.push(r.data.moves[i].move.name)
             }
-            //add pokemon moves to poke_data {pokemon: [moves]}
+            // add pokemon moves to poke_data {pokemon: [moves]}
             poke_data[name] = move_lst
         })
     
     }
     
     async function compare(){
-        //get dataset pokemons (name and moves)
+        // get dataset pokemons (name and moves)
         db_data = JSON.parse(fs.readFileSync('pokes.json', 'utf8'));
         for (let i = 0; i < db_data.length; i++){ getMoves(db_data[i].name) }
-        //wait for poke_data to be populated
+        // wait for poke_data to be populated
         await new Promise(resolve => setTimeout(resolve, 2500));
     
-        //compare db_data (moves) to poke_data (moves) 
+        // compare db_data (moves) to poke_data (moves) 
         for (let i = 0; i < db_data.length; i++){
             let db_name = db_data[i].name
             let db_moves = db_data[i].moves
@@ -36,7 +36,7 @@ function pokemon(){
 
             console.log("Pokemon: " + db_name + " id: " + (i+1))
             for (let j = 0; j < db_moves.length; j++){
-                //check if the dataset moves are in pokeapi's moves
+                // check if the dataset moves are in pokeapi moves
                 if (poke_moves.includes(db_moves[j])){
                     console.log("       Pass: "+ db_moves[j])
                     pass++
@@ -78,12 +78,12 @@ async function move(){
 
     }
     async function getPokes(){
-        //iterate through all pokemon
+        // iterate through all pokemon
         for (let i = 0; i < db_data.length; i++){
             let current_poke = db_data[i].name
             let moves = db_data[i].moves
             move_dict[current_poke] = {pass: [], fail: []}
-            //iterate through all moves of pokemon
+            // iterate through all moves of pokemon
             for (let j = 0; j < moves.length; j++){
                 let curr_move = moves[j]
                 //get data on current move
@@ -93,7 +93,7 @@ async function move(){
         }
         // iterate through move_dict and print results
 
-        //wait for move_dict to be populated
+        // wait for move_dict to be populated
         for (let key in move_dict){
             const fails = move_dict[key].fail.length
             const passes = move_dict[key].pass.length
@@ -121,13 +121,13 @@ async function move2(){
     async function get_learned_by_pokemon(curr_move, lst_pokes, move_dict){
         response = await axios.get('https://pokeapi.co/api/v2/move/'.concat(curr_move))
 
-        //get list of pokemon that learn current move
+        // get list of pokemon that learn current move
         let learned_by_pokemons = []
         for (let i = 0; i < response.data.learned_by_pokemon.length; i++){
             learned_by_pokemons.push(response.data.learned_by_pokemon[i].name)
         }
 
-        //compare 
+        // compare 
         for (let j = 0; j < lst_pokes.length; j++){
             if (learned_by_pokemons.includes(lst_pokes[j])){
                 move_dict[lst_pokes[j]].pass.push(curr_move)
@@ -142,7 +142,7 @@ async function move2(){
 
     async function format_data(db_data){
         let moves = {}
-        //create dictionary of moves {move: [pokemon1, pokemon2, ...]}
+        // create dictionary of moves {move: [pokemon1, pokemon2, ...]}
         for (let i = 0; i < db_data.length; i++){
             let curr_poke = db_data[i].name
             move_dict[curr_poke] = {pass: [], fail: []}
@@ -165,7 +165,7 @@ async function move2(){
 
     }
 
-    //get unique moves
+    // get unique moves
     await format_data(db_data)
 
     // iterate through move_dict and print results
